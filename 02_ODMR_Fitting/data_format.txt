@@ -1,0 +1,5 @@
+[freq_seqs_ndarray, ODMR_Y_ndarray，ODMR_Y_error_ndarray]
+
+ODMR_Y_ndarray： (50 frequency points, 512, 512)
+
+在使用Export功能之前要手动创建想要保存的文件夹。
