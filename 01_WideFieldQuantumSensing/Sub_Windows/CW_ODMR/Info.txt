@@ -1,0 +1,6 @@
+MW_power:0
+freq_start:2700000000
+freq_step:1000000
+freq_end:2760000000
+camera_exposure:30
+AOM_Voltage:0.2

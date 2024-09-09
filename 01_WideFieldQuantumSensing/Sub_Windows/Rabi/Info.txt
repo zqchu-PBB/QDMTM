@@ -1,0 +1,10 @@
+MW_power:10
+MW_freq:2731150000
+aom_duration:1000
+MW_start:1000
+MW_sweep_start:0
+MW_sweep_step:10
+MW_sweep_end:300
+repetitions:10000
+gap:500
+aom_power:14

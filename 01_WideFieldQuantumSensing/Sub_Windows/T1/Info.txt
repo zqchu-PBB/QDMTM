@@ -1,0 +1,11 @@
+MW_power:10
+MW_freq:2731150000
+aom_duration:1000
+MW_duration:61
+gap_1:1000
+gap_2:1000
+delay_sweep_start:0
+delay_sweep_end:1500000
+delay_sweep_number:30
+repetitions:10000
+aom_power:14
